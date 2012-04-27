@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<drools-packages>
+<package>
+	<name>KSPManager_Comcast_ProductionTP</name>
+	<uri>http://localhost:8080/guvnor/org.drools.guvnor.Guvnor/package/comcast/Test
+	</uri>
+</package>
+<package>
+	<name>KSPManager_Comcast_Production</name>
+	<uri>http://localhost:8080/guvnor/org.drools.guvnor.Guvnor/package/comcast/Production</uri>
+</package>
+</drools-packages>
+
