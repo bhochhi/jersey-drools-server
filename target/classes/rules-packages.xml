@@ -2,13 +2,13 @@
 
 <drools-packages>
 <package>
-	<name>KSPManager_Comcast_ProductionTP</name>
-	<uri>http://localhost:8080/guvnor/org.drools.guvnor.Guvnor/package/comcast/Test
+	<name>ksession1</name>
+	<uri>http://localhost:8080/guvnor/org.drools.guvnor.Guvnor/package/pack/Test
 	</uri>
 </package>
 <package>
-	<name>KSPManager_Comcast_Production</name>
-	<uri>http://localhost:8080/guvnor/org.drools.guvnor.Guvnor/package/comcast/Production</uri>
+	<name>ksession2</name>
+	<uri>http://localhost:8080/guvnor/org.drools.guvnor.Guvnor/package/pack/Production</uri>
 </package>
 </drools-packages>
 
